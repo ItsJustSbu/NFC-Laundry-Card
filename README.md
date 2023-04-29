@@ -22,3 +22,15 @@ A front-end in order to display the data on the application that contains inform
 
 ### Phase 3:
 A payment gateway in order to avoid having to go to reception in order to load more tokens
+
+## Learning process
+(My learning process will be documented on this repository listed on different branches)
+1. I will first learn how to code in Kotlin<br>
+2. Making API calls in Kotlin<br>
+3. Learn how to develop apps in Kotlin <br>
+
+## Methodology
+I will be using Agile Methodology whilst building this app, My project Management tool will be JetBrains Spaces<br>
+
+## Deadline 
+I should finish this Application by the end of June <br>
